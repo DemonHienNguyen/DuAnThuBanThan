@@ -1,2 +1,2 @@
 console.log("Mẹ mày béo");
-confirm("Bạn chắc chứ ;-; ?")
+console.log("Sikibidi cái mẹ mày")
