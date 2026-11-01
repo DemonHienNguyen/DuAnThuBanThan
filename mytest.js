@@ -6,3 +6,4 @@ console.log("Sẽ được sửa");
 Dadadasdasdasd
 dấdasdasdasd  
 sikibidi
+Tính năng thêm part 2
