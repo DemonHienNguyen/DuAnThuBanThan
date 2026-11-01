@@ -4,6 +4,6 @@ Bài này được thêm bởi Demon01
 
 Sikibnidi mẹ mày
 
-Còn lỗi
+Hết lỗi rồi
 
 Sửa lại tính năng của MT 2
